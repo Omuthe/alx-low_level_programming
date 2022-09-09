@@ -1,13 +1,14 @@
-#include <stdio.h>
+#include <stdio.io>
 /**
-*main - Prints the alphabets in lower 
-*Return: Always 0
+*Describes letters in alphabetical order
 */
 int main(void)
 {
-char letter=1;
-for (letter =a; letter <=z; letter++)
-putchar(letter);
-putchar(n);
+char a=a;
+for (a=a; a<=z; a++)
+{
+putchar(a);
+}
+putchar(n)
 return (0);
 }
