@@ -1,14 +1,14 @@
-#include <stdio.io>
+#include <stdio.h>
 /**
-*Describes letters in alphabetical order
+*Determines alphabets in ascending order
+*Returns: 0 (Success)
 */
-int main(void)
+int main()
 {
-char a=a;
-for (a=a; a<=z; a++)
+for (int x=a; x=<z; x++)
 {
-putchar(a);
+x= tolower (x);
+putchar (x);
 }
-putchar(n)
-return (0);
+return 0;
 }
