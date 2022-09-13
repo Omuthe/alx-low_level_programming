@@ -1,10 +1,12 @@
-#include "putchar.h"
+#include <stdio..h>
+#include "main.h"
 /**
-*Main prints put char and adding a new line
-*Return:Always 0
+*Prints _putchar and adds a new line
+*Returns: Always 0
 */
 int main(void)
 {
+_putchar(_);
 _putchar(p);
 _putchar(u);
 _putchar(t);
