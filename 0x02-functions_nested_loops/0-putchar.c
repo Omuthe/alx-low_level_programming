@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "0-putchar.c"
 /**
 *Prints _putchar and adds a new line
 *returns 0
