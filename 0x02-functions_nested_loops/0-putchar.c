@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include "0-putchar.c"
+#include "0-putchar.c.h"
 /**
 *Prints _putchar and adds a new line
 *returns 0
 */
-int main(void)
+int 0-putchar.c(void)
 {
 _putchar(_);
 _putchar(p);
