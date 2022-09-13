@@ -1,14 +1,13 @@
-include "main.h"
+#include "main.h"
 /**
-*Main check the main code
-*Return: Always 0
+*print alphabets
 */
 void print_alphabet(void)
 {
-char l;
-for(l=a; l<=z l++)
+char i;
+for (i=a; i<=z; i++)
 {
-_putchar (l);
+_putchar(i);
 }
 putchar(n);
 }
