@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * rot13 - Entry point
+ * leet - Entry point
  * ONE if, TWO loops only...
  * @n: input
  * Return: decrypted string
