@@ -5,7 +5,7 @@
  * @n: input
  * Return: decrypted string
  */
-char *leet(char *c)
+char *leet(char *n)
 {
 	int i, x;
 	int find[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'};
