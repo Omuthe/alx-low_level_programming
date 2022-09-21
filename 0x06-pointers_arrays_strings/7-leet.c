@@ -5,7 +5,7 @@
  * @n: input
  * Return: decrypted string
  */
-char *rot13(char *n)
+char *leet(char *c)
 {
 	int i, x;
 	int find[] = {'a', 'A', 'e', 'E', 'o', 'O', 't', 'T', 'l', 'L'};
