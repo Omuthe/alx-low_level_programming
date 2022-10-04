@@ -15,7 +15,7 @@ char *str_concat(char *s1, char *s2)
 
 	if (!s1)
 		s1 = "";
-	if (s2)
+	if (!s2)
 		s2 = "";
 	for (size = 0; s1[size] != '\0'; size++)
 		;
